@@ -1,7 +1,7 @@
 # ALMA RESSURSER
 
 ## Alma
-- :house_with_garden: [Alma Login](https://bibsys-ea.alma.exlibrisgroup.com/mng/action/home.do)
+- [Alma Login](https://bibsys-ea.alma.exlibrisgroup.com/mng/action/home.do)
 
 - [Sandbox](https://sandbox-eu.alma.exlibrisgroup.com/mng/action/home.do?mode=ajax)
 
