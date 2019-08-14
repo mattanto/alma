@@ -7,14 +7,14 @@
 ---
 # Hjelp for Alma
 ## Opplæring
-- [Alma Training](https://knowledge.exlibrisgroup.com/Alma/Training) _Videoopplæring_
-- [Alma og MARC21 Opplæring fra Unit](https://openedx-alma.bibsys.no/courses) _Du trenger ikke brukernavn/passord. Klikk på kurset, klikk på "meld deg på", IKKE fyll ut skjemaet, men klikk på "logg inn" til høyre, og igjen på "logg på"_
+- [Alma Training (ENG)](https://knowledge.exlibrisgroup.com/Alma/Training) _Videoopplæring_
+- [Alma og MARC21 Opplæring fra Unit (NOR)](https://openedx-alma.bibsys.no/courses) _Du trenger ikke brukernavn/passord. Klikk på kurset, klikk på "meld deg på", IKKE fyll ut skjemaet, men klikk på "logg inn" til høyre, og igjen på "logg på"_
+- [Opplæring fra UiO (NOR)](https://www.uio.no/for-ansatte/enhetssider/ub/prosjekter/alma/opplaering/) _Ulike veiledninger og oppskrifter_
 - [Alma Sertifisering](https://knowledge.exlibrisgroup.com/Alma/Training/Alma_Administration_Certification)
 
 ## Dokumentasjon, veiledninger, oppskrifter, osv.
-- [Dokumentasjon fra Unit](https://dok.unit.no/home) _Veiledninger, FAQ, Tips & Triks om Alma/Oria_
 - [Alma Online Help](https://knowledge.exlibrisgroup.com/Alma/Product_Documentation/010Alma_Online_Help_(English)) _Din nye Bibel_
-- [Opplæring fra UiO](https://www.uio.no/for-ansatte/enhetssider/ub/prosjekter/alma/opplaering/) _Ulike oversikter og oppskrifter. Litt eldre, men det meste vil fortsatt være relevant_
+- [Dokumentasjon fra Unit](https://dok.unit.no/home) _Veiledninger, FAQ, Tips & Triks om Alma/Oria_
 - [Diskusjonsforum Oria](https://forum.bibsys.no/index.php?sid=f007d1f22e070c8db4ee24bfcafb8f15) _fritt å lese, men krever innlogging for spørsmål_
 
 ---
