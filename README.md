@@ -1,6 +1,4 @@
-# ALMA RESSURSER
-
-## Alma
+# Alma
 - [Alma Login](https://bibsys-ea.alma.exlibrisgroup.com/mng/action/home.do)
 
 - [Sandbox](https://sandbox-eu.alma.exlibrisgroup.com/mng/action/home.do?mode=ajax)
@@ -19,12 +17,12 @@
 
 
 ---
-## Katalogisering
+# Katalogisering
 - [Verktøykasse for katalogisering](https://katalogisering.bibsys.no/)
 
 
 ---
-## Annet
+# Annet
 - [ExLibris Ideas Exchange](https://ideas.exlibrisgroup.com/) _Foreslå ideer, stem for dem og følg opp_
 
 - [Etikettutskrift fra Alma](https://etikett.bibsys.no/etikett/) _Kanskje nyttig i fremtiden?_
