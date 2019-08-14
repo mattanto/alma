@@ -1,15 +1,11 @@
-# Alma
+# Alma / Oria
 - [Alma Login](https://bibsys-ea.alma.exlibrisgroup.com/mng/action/home.do)
-
 - [Sandbox](https://sandbox-eu.alma.exlibrisgroup.com/mng/action/home.do?mode=ajax)
-
 - [Gammel Oria](https://bibsys-almaprimo.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?mode=Basic&vid=UBO&tab=library_catalogue&)
-
 - [Ny Oria](https://bibsys-almaprimo.hosted.exlibrisgroup.com/primo-explore/search?sortby=rank&vid=BIBSYS&lang=no_NO)
 
 ---
 # Hjelp for Alma
-
 - [Dokumentasjon fra Unit](https://dok.unit.no/home) _Veiledninger, FAQ, Tips & Triks om Alma/Oria_
 
 - [Dokumentasjon fra ExLibris](https://knowledge.exlibrisgroup.com/Alma) _AKA ExLibris Knowledge Center_
@@ -36,6 +32,6 @@
 # Annet
 - [ExLibris Ideas Exchange](https://ideas.exlibrisgroup.com/) _Foreslå ideer, stem for dem og følg opp_
 
-- [Etikettutskrift fra Alma](https://etikett.bibsys.no/etikett/) _Kanskje nyttig i fremtiden?_
+- [Etikettutskrift fra Alma](https://etikett.bibsys.no/etikett/)
 
 - [Teksnisk dokumentasjon for Alma](https://www.unit.no/teknisk-dokumentasjon-alma)
