@@ -6,6 +6,9 @@
 
 ---
 # Hjelp for Alma
+
+[Alma intern manual](https://nasjonalmuseetf0wit.sharepoint.com/:w:/s/SeksjonBibliotekogarkiv/EXUt5htr9M9CrNnGQ6LT1lMBzCpcAeZPwVqJPoj11SvWBA?e=jm8EYF) _Ligger i FELLESOMRÅDE \Bibliotek\Bibsys\ALMA intern manual.docx_
+
 ## Opplæring
 - [Alma Training (ENG)](https://knowledge.exlibrisgroup.com/Alma/Training) _Videoopplæring_
 - [Alma og MARC21 Opplæring fra Unit (NOR)](https://openedx-alma.bibsys.no/courses) _Du trenger ikke brukernavn/passord. Klikk på kurset, klikk på "meld deg på", IKKE fyll ut skjemaet, men klikk på "logg inn" til høyre, og igjen på "logg på"_
