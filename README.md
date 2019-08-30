@@ -23,7 +23,7 @@
 
 ---
 # Katalogisering
-- [Verktøykasse for katalogisering](https://katalogisering.bibsys.no/)
+- [Verktøykasse for katalogisering (VFK)](https://katalogisering.bibsys.no/)
 - [MARC21 LOC](http://www.loc.gov/marc/bibliographic/) _fra Library of Congress, den offisielle og mest oppdaterte versjonen_
 - [MARC21 OCLC](https://www.oclc.org/bibformats/en.html) _fra OCLC - bedre grensesnitt og søkemuligheter, flere eksempler - men de aller siste oppdateringene kommer litt etter hvert_
 
