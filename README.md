@@ -7,7 +7,7 @@
 ---
 # Hjelp for Alma
 
-[Alma intern manual](https://nasjonalmuseetf0wit.sharepoint.com/:w:/s/SeksjonBibliotekogarkiv/EXUt5htr9M9CrNnGQ6LT1lMBzCpcAeZPwVqJPoj11SvWBA?e=8Sv3Rk) _Ligger i FELLESOMRÅDE(Teams-Sharepoint) \Bibliotek\ALMA\ALMA intern manual.docx_ **husk at alle kan endre på filen/legge til ting**
+[Alma intern manual](https://nasjonalmuseetf0wit.sharepoint.com/:w:/s/SeksjonBibliotekogarkiv/EXUt5htr9M9CrNnGQ6LT1lMBzCpcAeZPwVqJPoj11SvWBA?e=8Sv3Rk) _Ligger elles som Wordfil i FELLESOMRÅDE(Teams-Sharepoint) \Bibliotek\ALMA\ALMA intern manual.docx_ **husk at alle kan endre på filen/legge til ting**
 
 
 ## Opplæring
