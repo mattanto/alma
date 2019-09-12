@@ -18,7 +18,7 @@
 
 ## Dokumentasjon, veiledninger, oppskrifter, osv.
 - [Alma Online Help](https://knowledge.exlibrisgroup.com/Alma/Product_Documentation/010Alma_Online_Help_(English)) _Din nye Bibel_
-- [Dokumentasjon fra Unit](https://dok.unit.no/home) _Veiledninger, FAQ, Tips & Triks om Alma/Oria_
+- [Dokumentasjon fra Unit](https://dok.unit.no/home) _Veiledninger, FAQ, Tips & Triks om Alma/Oria -- VELDIG NYTTIG MED SØKEFUNKSJON!_
 - [Diskusjonsforum Oria](https://forum.bibsys.no/index.php?sid=f007d1f22e070c8db4ee24bfcafb8f15) _fritt å lese, men krever innlogging for spørsmål_
 
 ---
