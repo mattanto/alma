@@ -7,7 +7,7 @@
 ---
 # Hjelp for Alma
 
-[Alma intern manual](https://nasjonalmuseetf0wit.sharepoint.com/:w:/s/SeksjonBibliotekogarkiv/EXUt5htr9M9CrNnGQ6LT1lMBzCpcAeZPwVqJPoj11SvWBA?e=8Sv3Rk) _Ligger elles som Wordfil i FELLESOMRÅDE(Teams-Sharepoint) \Bibliotek\ALMA\ALMA intern manual.docx_ **husk at alle kan endre på filen/legge til ting**
+[Alma intern manual](https://nasjonalmuseetf0wit.sharepoint.com/:w:/s/SeksjonBibliotekogarkiv/EXUt5htr9M9CrNnGQ6LT1lMBzCpcAeZPwVqJPoj11SvWBA?e=8Sv3Rk) _Ligger ellers som Wordfil i FELLESOMRÅDE(Teams-Sharepoint) \Bibliotek\ALMA\ALMA intern manual.docx_ **husk at alle kan endre på filen/legge til ting**
 
 
 ## Opplæring
@@ -23,6 +23,7 @@
 
 ---
 # Katalogisering
+- [Forklaring til mal NASJMUS_Trykt bok](https://nasjonalmuseetf0wit.sharepoint.com/:w:/s/SeksjonBibliotekogarkiv/ETP0m65h6mhNm1tCfPjf4A0BRL8m0SlavQs2Y1P0jUfcmQ?e=8sfSGS) _Ligger ellers som Wordfil i FELLESOMRÅDE(Teams-Sharepoint) \Bibliotek\ALMA\Katalogisering Forklaring til Mal NASJMUS_Trykt Bok.docx_ **husk at alle kan endre på filen/legge til ting**
 - [Verktøykasse for katalogisering (VFK)](https://katalogisering.bibsys.no/)
 - [MARC21 LOC](http://www.loc.gov/marc/bibliographic/) _fra Library of Congress, den offisielle og mest oppdaterte versjonen_
 - [MARC21 OCLC](https://www.oclc.org/bibformats/en.html) _fra OCLC - bedre grensesnitt og søkemuligheter, flere eksempler - men de aller siste oppdateringene kommer litt etter hvert_
